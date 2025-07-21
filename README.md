@@ -47,5 +47,3 @@ The main goals of this project are:
 - The gate driver circuit reliably boosted Arduino's PWM signals for effective switching.
 - Overall, the system enhanced power extraction and improved boost converter efficiency.
 
-
-├── 📄 README.md          # Project overview
