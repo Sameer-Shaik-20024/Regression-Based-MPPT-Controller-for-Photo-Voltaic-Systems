@@ -1,1 +1,1 @@
-# Regression-Based-MPPT-Controller-for-Photo-Voltaic-Systems
+# Regression Based MPPT Controller for Photo-Voltaic Systems
