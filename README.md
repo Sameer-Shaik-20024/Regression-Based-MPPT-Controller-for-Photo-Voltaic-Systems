@@ -47,22 +47,5 @@ The main goals of this project are:
 - The gate driver circuit reliably boosted Arduino's PWM signals for effective switching.
 - Overall, the system enhanced power extraction and improved boost converter efficiency.
 
----
 
-## 📎 Tools & Technologies
-
-- **MATLAB**: Model training and data processing
-- **Arduino UNO**: Microcontroller deployment
-- **TLP250**: Gate driver circuit
-- **Boost Converter**: Power regulation circuit
-
----
-
-## 📁 Folder Structure
-
-```bash
-📂 MPPT-MLR
-├── 📁 code/              # Arduino and MATLAB code
-├── 📁 schematics/        # Circuit diagrams and PCB layouts
-├── 📁 data/              # Collected training/test datasets
 ├── 📄 README.md          # Project overview
