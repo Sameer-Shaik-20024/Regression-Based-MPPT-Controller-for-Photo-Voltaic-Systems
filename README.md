@@ -1,8 +1,8 @@
-# Regression Based MPPT Controller for Photo-Voltaic Systems
+# Regression Based MPPT Controller for Photo-Voltaic (PV) Systems
 
 
 
-This research project focused on developing and evaluating an intelligent Maximum Power Point Tracking (MPPT) controller for solar PV systems using **Multi-Linear Regression (MLR)**. The aim was to optimize the efficiency of a DC-DC boost converter under varying irradiance and temperature conditions.
+This research project focused on developing and evaluating an Regression Based Maximum Power Point Tracking (MPPT) Controller for Solar PV Systems using **Multi-Linear Regression (MLR)**. The aim was to optimize the efficiency of a DC-DC boost converter under varying irradiance and temperature conditions.
 
 
 
